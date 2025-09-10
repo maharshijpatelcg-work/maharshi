@@ -1,1 +1,6 @@
+ <<<<<<< main
 Task 1:Study HTML
+ =======
+this is todo.txt file
+hello world
+ >>>>>>> fast
